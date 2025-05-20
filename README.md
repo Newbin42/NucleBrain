@@ -8,6 +8,11 @@
 - Locate your computercraft/computer/[comp_id]/ folder.
 - Copy the NucleBrain.lua file into this folder.
 
+## Usage
+- Connect the back of a CC-Tweaked Advanced computer to an Extreme Reactors computer port (must be directly attached to, not via modem).
+- Connect monitors to the computer (directly on the left side of the computer).
+- Run the program.
+
 ## Plans
 - [ ] Pastebin installer.  
 - [ ] Enhanced Gui.  
